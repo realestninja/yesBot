@@ -1,0 +1,16 @@
+{
+  "name": "yesBot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "node": "node main.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "node-telegram-bot-api": "~0.23.3"
+  },
+  "devDependencies": {
+  }
+}
